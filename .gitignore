@@ -50,6 +50,7 @@ htmlcov/
 # Output files
 output/
 renders/
+calendars/
 *.mp4
 *.mov
 *.avi

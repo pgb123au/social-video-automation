@@ -43,11 +43,11 @@ dependencies = [
     "openai>=1.0.0",
     "google-generativeai>=0.8.0",
 
-    # Social media APIs
-    "ayrshare>=1.0.0",
+    # Social media APIs (accessed via httpx, no PyPI package)
+    # Ayrshare, Late.dev - REST APIs
 
-    # Video generation
-    "creatomate>=1.0.0",
+    # Video generation (accessed via httpx, no PyPI package)
+    # Creatomate, HeyGen - REST APIs
 
     # Utilities
     "python-dotenv>=1.0.1",
